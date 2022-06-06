@@ -1,6 +1,7 @@
 appdirs==1.4.4
 asgiref==3.3.1
 astroid==2.5.3
+gunicorn==19.0.0 
 colorama==0.4.4
 distlib==0.3.1
 Django==3.1.7
