@@ -1,1 +1,1 @@
-web: gunicorn HepaJ.wsgi
+web: gunicorn Eshop.wsgi.application
